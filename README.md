@@ -1,5 +1,5 @@
 # CollegeSocialMedia
-A web app that displays a student's college's important social media posts across platforms at one portal. It uses Pupeteer to scrape the posts in Instagram and Linkedin, saving post details to SQLite via Prisma and images locally. Express serves these scraped posts to the front end.
+A web app that displays a student's college's important social media posts across platforms at one portal. It uses Puppeteer to scrape the posts in Instagram and Linkedin, saving post details to SQLite via Prisma and images locally. Express serves these scraped posts to the front end.
 
 ## Things to work on:
 1. Session handling with the login system.
