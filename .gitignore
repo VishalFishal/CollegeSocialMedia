@@ -1,0 +1,6 @@
+*.env
+/images/linkedin_posts
+/images/posts
+cookies_linkedin.json
+cookies.json
+node_modules
